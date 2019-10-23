@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+//teste
+
 namespace adminlte.Controllers
 {
     public class HomeController : Controller
